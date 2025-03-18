@@ -28,8 +28,9 @@ I'm a passionate **MERN Stack** and **Java Developer** from Pakistan 🇵🇰, d
 ---
 
 ## 📊 GitHub Stats  
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Sami's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sami3234&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sami3234&layout=compact&theme=radical)  
+
 
 ---
 
