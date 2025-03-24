@@ -15,15 +15,17 @@ I'm a passionate **MERN Stack** and **Java Developer** from Pakistan 🇵🇰, d
 ---
 
 ## 📂 Featured Projects  
-### 1️⃣ **E-Commerce Website** (MERN Stack)  
-🔹 **Tech Used:** React, Redux, Node.js, Express, MongoDB  
-🔹 **Features:** User authentication, Cart system, Admin panel  
-🔹 **GitHub Repo:** [Link to Repo](https://github.com/Sami3234/MERN-Stack)  
+### 🔹 [E-Commerce Website (MERN Stack)](https://github.com/Sami3234/MERN-Stack)  
+**Tech Used:** React, Redux, Node.js, Express, MongoDB  
+- User authentication  
+- Cart system  
+- Admin panel  
 
-### 2️⃣ **Java-Based Management System**  
-🔹 **Tech Used:** Java, Spring Boot, MySQL  
-🔹 **Features:** CRUD operations, Secure login, Reporting system  
-🔹 **GitHub Repo:** [Link to Repo](https://github.com/Sami3234/Sami3234)  
+### 🔹 [Java-Based Management System](https://github.com/Sami3234/Sami3234)  
+**Tech Used:** Java, Spring Boot, MySQL  
+- CRUD operations  
+- Secure login  
+- Reporting system  
 
 ---
 
@@ -31,14 +33,13 @@ I'm a passionate **MERN Stack** and **Java Developer** from Pakistan 🇵🇰, d
 ![Sami's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sami3234&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sami3234&layout=compact&theme=radical)  
 
-
 ---
 
 ## 🤝 Connect with Me  
-📧 **Email:** kk34samikhan@gmail.com 
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/Sami3234)  
-🔗 **tiktok:** [My Tiktok Profile](https://www.tiktok.com/@m.sami_daha?_t=ZS-8uaoojoq7En&_r=1)
+📧 **Email:** [kk34samikhan@gmail.com](mailto:kk34samikhan@gmail.com)  
+🔗 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+🔗 **GitHub:** [GitHub Profile](https://github.com/Sami3234)  
+🔗 **TikTok:** [TikTok Profile](https://www.tiktok.com/@m.sami_daha?_t=ZS-8uaoojoq7En&_r=1)  
 
 ---
 
